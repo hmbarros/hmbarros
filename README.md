@@ -3,7 +3,6 @@
 <!---->
 
 - 🌱 I’m Industrial Engineering student at UNICAMP
-  <img src="https://www.unicamp.br/unicamp/sites/default/files/styles/large/public/Logo_Unicamp__0.jpg?itok=sO9EjTTS" height="50"/>
 - 🔭 I’m currently working on @limermed
 - 💬 Ask me about Operational Research and Optmize Models
 - 📫 How to reach me: hmbarros.cps@gmail.com
